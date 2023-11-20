@@ -107,3 +107,4 @@ accordingly. The React component is always in charge of what the DOM looks like.
 event, it should invoke that callback prop with the value of the text input. It
 is this callback function, defined in `GifListContainer`, that will actually
 query the API with the text the user has entered.
+<!--  -->
